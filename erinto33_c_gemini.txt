@@ -1,0 +1,1 @@
+In a regular polygon with 12 sides, a maximum of 14 diagonals can be drawn such that each diagonal intersects at most one other diagonal in the interior of the polygon.
